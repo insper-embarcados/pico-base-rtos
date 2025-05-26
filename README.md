@@ -1,3 +1,3 @@
-# RP2040 freertos with OLED1
+# Freertos
 
 basic freertos project, with code quality enabled.
