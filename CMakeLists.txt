@@ -27,5 +27,7 @@ pico_sdk_init()
 
 # rest of your project
 add_subdirectory(freertos)
+add_subdirectory(ssd1306_lib)
+
 add_subdirectory(main)
 
