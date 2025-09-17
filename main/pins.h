@@ -8,6 +8,5 @@ const int LED_PIN_R = 7;
 const int LED_PIN_G = 8;
 const int LED_PIN_B = 9;
 
-const int SSD1306_PIN_LITE = 15;
 
 #endif // PINS_H
